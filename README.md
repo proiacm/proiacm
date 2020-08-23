@@ -7,11 +7,11 @@ Hello :wave:
 
 Finance professional turned software engineer! I have worked on multiple projects on my own and as part of a team, with a focus on object-oriented programming, MVC architecture, and aesthetic minimal designs.
 
-- :bulb: Ruby | Rails | Javascript | React | Redux
+- :bulb: Ruby | Rails | Javascript | React | Redux <br>
 
 
-- 🔭 I’m currently working on fun projects
-- 🌱 I’m currently learning python
+- 🔭 I’m currently working on a surprise 'thank you' app for my awesome teacher
+- 🌱 I’m currently learning python on Udemy
 - 👯 Let's collaborate on awesome websites
 - :airplane: I love to travel
 
