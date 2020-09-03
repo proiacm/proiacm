@@ -10,7 +10,7 @@ Finance professional turned software engineer! I have worked on multiple project
 - :bulb: Ruby | Rails | Javascript | React | Redux 
 - 🔭 I’m currently working on a personal website
 - 🌱 I’m currently learning Comp Sci: Algorithms
-- :book: I'm currently reading Can't Hurt Me by David Goggins
+- :book: Always reading, always learning
 - 👯 Let's collaborate on awesome projects that give back
 - :airplane: I love to travel
 
