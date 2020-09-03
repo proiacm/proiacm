@@ -8,8 +8,8 @@ Hello :wave:
 Finance professional turned software engineer! I have worked on multiple projects on my own and as part of a team, with a focus on object-oriented programming, MVC architecture, and aesthetic minimal designs.
 
 - :bulb: Ruby | Rails | Javascript | React | Redux 
-- 🔭 I’m currently working on a surprise 'thank you' app for my awesome teacher
-- 🌱 I’m currently learning python on Udemy
+- 🔭 I’m currently working on a personal website
+- 🌱 I’m currently learning Comp Sci: Algorithms
 - :book: I'm currently reading Can't Hurt Me by David Goggins
 - 👯 Let's collaborate on awesome websites
 - :airplane: I love to travel
