@@ -11,7 +11,7 @@ Finance professional turned software engineer! I have worked on multiple project
 - 🔭 I’m currently working on a personal website
 - 🌱 I’m currently learning Comp Sci: Algorithms
 - :book: I'm currently reading Can't Hurt Me by David Goggins
-- 👯 Let's collaborate on awesome websites
+- 👯 Let's collaborate on awesome projects that give back
 - :airplane: I love to travel
 
 #### Check out my blog on [DEV](https://dev.to/proiacm)
