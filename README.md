@@ -7,11 +7,11 @@ Hello :wave: Hola
 
 Finance professional turned software engineer! I have worked on multiple projects on my own and as part of a team, with a focus on object-oriented programming, MVC architecture, and aesthetic minimal designs.
 
-- :bulb: Ruby | Rails | Javascript | React | Redux 
-- 🔭 I’m currently working on a personal website
-- 🌱 I’m currently learning Comp Sci: Algorithms
+- :bulb: Javascript | React | Ruby on Rails | 
+- 🔭 I’m currently working on my personal website
+- 🌱 I’m currently learning React: The Complete Guide on Udemy
 - :book: Always reading, always growing
-- 👯 Let's collaborate on awesome projects that give back
+- 👯 Let's collaborate on awesome projects 
 - :airplane: I love to travel
 
 #### Check out my blog on [DEV](https://dev.to/proiacm)
