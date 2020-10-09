@@ -12,7 +12,7 @@ I am a finance professional turned software engineer! I have worked on multiple 
 - 🌱 I’m currently continuing my learning with React: The Complete Guide on Udemy
 - :book: Always reading, always growing
 - 👯 Let's collaborate on awesome projects 
-- :airplane: I love to travel
+- :airplane: I love to travel | :camping: and camp | :coffee: and coffee
 
 #### Check out my blog on [DEV](https://dev.to/proiacm)
 #### Let's connect on [LinkedIn](https://www.linkedin.com/in/cmproia/)
