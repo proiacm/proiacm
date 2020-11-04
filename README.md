@@ -10,7 +10,6 @@ I am a finance professional turned software engineer! I have worked on multiple 
 - :bulb: React.js | Javascript | Node.js | Ruby on Rails | CSS | SQL
 - 🔭 I’m currently working on a freelance project for local business
 - 🌱 I’m currently continuing my education through Udemy and technical writing
-- :book: Always reading, always growing
 - 👯 Let's collaborate on awesome projects 
 - :airplane: I love to travel | :camping: and camp | :coffee: and coffee
 
