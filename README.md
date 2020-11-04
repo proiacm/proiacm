@@ -7,7 +7,7 @@ Hello :wave: Hola
 
 I am a finance professional turned software engineer! I have worked on multiple projects on my own and as part of a team, with a focus on object-oriented programming, MVC architecture, responsive SPA, and aesthetic minimal designs.
 
-- :bulb: Javascript | React | Ruby on Rails | CSS | SQL
+- :bulb: React.js | Javascript | Node.js | Ruby on Rails | CSS | SQL
 - 🔭 I’m currently working on my personal website
 - 🌱 I’m currently continuing my learning with React: The Complete Guide on Udemy and AWS Certified Developer on Udemy
 - :book: Always reading, always growing
