@@ -10,8 +10,8 @@ Hello :wave: Hola
 - 🔭 I’m currently working on a freelance project for local art studio
 - 🌱 I’m currently continuing my education through Udemy and technical writing
 - 👯 Let's collaborate on awesome projects 
-- 🤔 I’m looking for help finding a new opportunity in a software development role
-- :airplane: I love to travel | :camping: and camp | :coffee: and coffee
+- :airplane: I love travel | :camping: camping | :coffee: and coffee
+- 🤔 I’m looking for a new opportunity in a software development role
 
 #### Visit my [Website](https://proiacm.github.io/)
 #### Check out my blog on [DEV](https://dev.to/proiacm)
