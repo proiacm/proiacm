@@ -2,7 +2,7 @@
 Hello :wave: Hola
 <h3>
 <h4 align="center">  
-:octocat:CiaraMaria | Software Developer | Colorado Springs, CO:mountain_snow:
+:octocat:CiaraMaria | Developer/Designer | Colorado Springs, CO:mountain_snow:
 </h4> <hr>
 
 - :bulb: React.js | Javascript | Node.js | Ruby on Rails | CSS | HTML | SQLite
