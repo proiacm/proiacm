@@ -5,9 +5,7 @@ Hello :wave: Hola
 :octocat:CiaraMaria | Software Developer | Colorado Springs, CO:mountain_snow:
 </h4> <hr>
 
-I am a finance professional turned software engineer! I love design and all things aesthetic.
-
-- :bulb: React.js | Javascript | Node.js | Ruby on Rails | CSS | SQL
+- :bulb: React.js | Javascript | Node.js | Ruby on Rails | CSS | HTML | SQLite
 - 🔭 I’m currently working on a freelance project for local business
 - 🌱 I’m currently continuing my education through Udemy and technical writing
 - 👯 Let's collaborate on awesome projects 
