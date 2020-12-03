@@ -5,7 +5,7 @@ Hello :wave: Hola
 :octocat:CiaraMaria | Developer/Designer | Colorado Springs, CO:mountain_snow:
 </h4> <hr>
 
-- :bulb: React.js | Javascript | Node.js | Ruby on Rails | CSS | HTML | SQLite
+- :bulb: React.js | Javascript | Node.js | Ruby on Rails | Firebase | CSS | HTML | SQLite
 - :art: I love design 
 - 🔭 I’m currently working on a freelance project for local art studio and an open source project
 - 🌱 I’m currently continuing my education through Udemy and technical writing
