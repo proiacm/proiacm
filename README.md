@@ -7,7 +7,7 @@ Hello :wave: Hola
 
 - :bulb: React.js | Javascript | Node.js | Ruby on Rails | CSS | HTML | SQLite
 - :art: I love design 
-- 🔭 I’m currently working on a freelance project for local art studio
+- 🔭 I’m currently working on a freelance project for local art studio and an open source project
 - 🌱 I’m currently continuing my education through Udemy and technical writing
 - 👯 Let's collaborate on awesome projects 
 - :airplane: I love travel | :camping: camping | :coffee: and coffee
