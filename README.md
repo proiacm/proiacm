@@ -9,7 +9,5 @@ Hello :wave: Hola
 - :art: I also love design and animation
 - :airplane: I'm a traveler | :camping: camper/hiker | :coffee: coffee drinker
 
-
-#### Visit my [Website](https://proiacm.github.io/)
 #### Check out my blog on [DEV](https://dev.to/proiacm)
 #### Let's connect on [LinkedIn](https://www.linkedin.com/in/cmproia/)
