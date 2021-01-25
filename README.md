@@ -2,13 +2,12 @@
 Hello :wave: Hola
 <h3>
 <h4 align="center">  
-:octocat:CiaraMaria | Developer/Designer | Colorado Springs, CO:mountain_snow:
+:octocat:CiaraMaria | Developer at Whitelabel Co | Colorado Springs, CO:mountain_snow:
 </h4> <hr>
 
-- :bulb: React.js | Javascript | Node.js | Ruby on Rails | Firebase | CSS | HTML | SQLite
-- :art: I love design and animation
-- 👯 Let's collaborate on awesome projects 
-- :airplane: I love travel | :camping: camping | :coffee: and coffee
+- :bulb: React.js | Javascript | CSS | HTML | Ruby on Rails | SQL
+- :art: I also love design and animation
+- :airplane: I'm a traveler | :camping: camper/hiker | :coffee: coffee drinker
 
 
 #### Visit my [Website](https://proiacm.github.io/)
