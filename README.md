@@ -1,5 +1,5 @@
 ```
-(define-constant MY_NAME "CiaraMaria aka mariaverse")
+(define-constant MY_NAME "CiaraMaria")
 (define-constant MY_PASSION "helping to build a user owned web3 on Stacks.")
 
 (define-read-only (get-greeting)
