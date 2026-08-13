@@ -56,8 +56,7 @@ probably      → getting another cup of coffee
 
 ---
 
-## my top 4
-
+## my top 6
 
 <table>
 <tr>
@@ -67,10 +66,10 @@ probably      → getting another cup of coffee
 
 Designed governed AI development workflows around real production repositories, including:
 
-`context management`
-`agent orchestration`
-`verification loops`
-`human approval`
+`context management`<br>
+`agent orchestration`<br>
+`verification loops`<br>
+`human approval`<br>
 `architectural constraints`
 
 The goal: **increase engineering capacity without outsourcing engineering judgment.**
@@ -103,16 +102,28 @@ Built a decentralized finance protocol from concept through testnet, including f
 
 Created technical education and developer resources used by **hundreds of developers**.
 
-Also spent time mentoring contributors, reviewing ecosystem work, speaking at Web3 events, and judging hackathons.
+Also spent time mentoring contributors, reviewing ecosystem work, speaking at web3 events, and judging hackathons.
 
 </td>
 </tr>
 
 <tr>
-</tr>
+<td width="50%" valign="top">
 
-<tr>
+### 05. Trellis
 
+I wanted a way to manage my own garden in a very specific way and wasn't happy with any of the existing options.
+
+That gap became Trellis: a system built around what needs attention now, not just what I planted.
+
+</td>
+<td width="50%" valign="top">
+
+### 06. Closetcore
+
+I built Closetcore for my teenage stepdaughters: a simple closet organizer and outfit planner that stays calm, avoids overstimulation, and has absolutely no social component.
+
+</td>
 </tr>
 </table>
 
