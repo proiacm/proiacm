@@ -51,7 +51,7 @@ building      → AI-native engineering systems
 learning      → Swift + native iOS development
 thinking      → product systems, agents, architecture
 optimizing    → how humans + AI build software together
-probably      → redesigning something that was already fine
+probably      → getting another cup of coffee
 ```
 
 ---
