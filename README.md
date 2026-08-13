@@ -1,6 +1,6 @@
 
 <!-- Social / Contact Badges via Shields.io -->
-[![Company](https://img.shields.io/badge/ciaramaria.xyz-800080?style=for-the-badge&logo=brave&logoColor=white)]((https://www.ciaramaria.xyz/))
+[![Company](https://img.shields.io/badge/ciaramaria.xyz-800080?style=for-the-badge&logo=brave&logoColor=white)](https://www.ciaramaria.xyz/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ciaramariap/)
 [![Instagram](https://img.shields.io/badge/@nikkoandvala-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nikkoandvala/)
 # Hey, I'm CiaraMaria 👋
