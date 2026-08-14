@@ -172,13 +172,9 @@ It is:
 
 ## tools i keep around
 
-### languages
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-241812?style=flat-square\&logo=typescript\&logoColor=D16A4A)
 ![JavaScript](https://img.shields.io/badge/JavaScript-241812?style=flat-square\&logo=javascript\&logoColor=F5F2EC)
 ![SQL](https://img.shields.io/badge/SQL-241812?style=flat-square\&logo=postgresql\&logoColor=E9B39B)
-
-### product engineering
 
 ![React](https://img.shields.io/badge/React-30221B?style=flat-square\&logo=react\&logoColor=E9B39B)
 ![Next.js](https://img.shields.io/badge/Next.js-30221B?style=flat-square\&logo=nextdotjs\&logoColor=F5F2EC)
@@ -187,21 +183,18 @@ It is:
 ![Playwright](https://img.shields.io/badge/Playwright-30221B?style=flat-square\&logo=playwright\&logoColor=D16A4A)
 ![Jest](https://img.shields.io/badge/Jest-30221B?style=flat-square\&logo=jest\&logoColor=E9B39B)
 
-### ai systems
-
-`Claude Code` · `Codex` · `ChatGPT` · `Cursor` · `MCP` · `agent systems` · `harness engineering`
-
 ---
 
 ## bulletins
 
 ```txt
-2026     → rebuilding my corner of the internet
-2025     → deep in AI harness + agent architecture
-2024     → became a Certified ScrumMaster
-2023     → became a co-founder
-2022     → spent a lot of time teaching developers web3
-2020     → decided it was time to actually learn to code
+2026     → shipping client work through my AI harness
+2025     → made AI-assisted delivery something my team could trust
+2024     → scrum cert. learned the official names for things I was already doing
+2023     → co-founder year. product, frontend, and the messy part
+2022     → Stacks residency. travel, curriculum, hackathons
+2021     → got hired to write software
+2020     → went back to school, this time for code
 ```
 
 ---
@@ -252,6 +245,6 @@ Growing flowers, vegetables, and an unreasonable level of emotional investment i
 <div align="center">
 
 
-© 2026 CiaraMaria // establish the work of our hands.
+© 2026 CiaraMaria // Establish the work of our hands.
 
 </div>
