@@ -56,7 +56,7 @@ probably      → getting another cup of coffee
 
 ---
 
-## my top 6
+## my top 7
 
 <table>
 <tr>
@@ -77,52 +77,66 @@ The goal: **increase engineering capacity without outsourcing engineering judgme
 </td>
 <td width="50%" valign="top">
 
-### 02. Sunra Health
+### 02. Every Hour
+
+A macOS companion for returning to Scripture in the middle of digital life.
+
+I built it for the hours between a morning reading and everything else, not another app you have to remember to open. A small sparrow at the edge of the desktop, and a bubble that carries a passage.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 03. Sunra Health
 
 Product engineering for a personalized pediatric health platform.
 
 Worked across product architecture, frontend systems, research experiences, analytics, conversion flows, and customer-facing product surfaces.
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
-### 03. Papaya
-
-**Co-Founder + Lead Frontend Engineer**
-
-Built a decentralized finance protocol from concept through testnet, including frontend architecture, smart contracts, wallet authentication, APIs, documentation, and community feedback loops.
-
-</td>
-<td width="50%" valign="top">
-
-### 04. Stacks Ecosystem
-
-Created technical education and developer resources used by **hundreds of developers**.
-
-Also spent time mentoring contributors, reviewing ecosystem work, speaking at web3 events, and judging hackathons.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 05. Trellis
+### 04. Trellis
 
 I wanted a way to manage my own garden in a very specific way and wasn't happy with any of the existing options.
 
 That gap became Trellis: a system built around what needs attention now, not just what I planted.
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
-### 06. Closetcore
+### 05. Closetcore
 
 I built Closetcore for my teenage stepdaughters: a simple closet organizer and outfit planner that stays calm, avoids overstimulation, and has absolutely no social component.
 
+</td>
+<td width="50%" valign="top">
+
+### 06. Papaya
+
+**Co-Founder + Lead Frontend Engineer**
+
+Built a decentralized finance protocol from concept through testnet, including frontend architecture, smart contracts, wallet authentication, APIs, documentation, and community feedback loops.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 07. Stacks Ecosystem
+
+Created technical education and developer resources used by **hundreds of developers**.
+
+Also spent time mentoring contributors, reviewing ecosystem work, speaking at web3 events, and judging hackathons.
+
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
