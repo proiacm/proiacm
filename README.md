@@ -1,15 +1,13 @@
-
 <!-- Social / Contact Badges via Shields.io -->
 [![Company](https://img.shields.io/badge/ciaramaria.xyz-800080?style=for-the-badge&logo=brave&logoColor=white)](https://www.ciaramaria.xyz/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ciaramariap/)
 [![Instagram](https://img.shields.io/badge/@nikkoandvala-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nikkoandvala/)
+
 # Hey, I'm CiaraMaria 👋
 
-`senior product engineer` · `technical leader` · `ai systems builder`
+`senior product engineer` · `agent systems architect` · `ai harness builder`
 
-**I build complex digital products and the systems that help teams ship them.**
-
-</div>
+**I build production software and the AI harnesses that help teams ship them.**
 
 ---
 
@@ -18,11 +16,11 @@
 │                                                           │
 │  product thinker who happens to write a lot of code       │
 │  builder of things for humans                             │
-│  increasingly obsessed with ai-native engineering         │
+│  designer of ai harnesses for real delivery work          │
 │                                                           │
 │  internet since: myspace era                              │
 │                                                           │
-└────────────────────────────────────────────────────────── ┘
+└───────────────────────────────────────────────────────────┘
 ```
 
 I’m a **Senior Product Engineer and technical leader** with years of experience building production software across health, commercial aviation, ecommerce, food retail, and web3.
@@ -31,13 +29,13 @@ I tend to work in the messy middle between **product and engineering**, where th
 
 That usually means:
 
-* figuring out what actually needs to be built
-* turning ambiguous requirements into practical systems
-* designing architecture that other engineers can extend
-* building the thing
-* improving the process used to build the next thing
+- figuring out what actually needs to be built
+- turning ambiguous requirements into practical systems
+- designing architecture that other engineers can extend
+- building the thing
+- improving the process used to build the next thing
 
-More recently, a lot of my work has centered on **AI-native engineering systems**, agent workflows, context architecture, verification, and figuring out how AI can increase a team's capacity without lowering its standards.
+More recently, my work has centered on **AI harness engineering**: reusable agent workflows, context architecture, explicit contracts, guardrails, validation, and human review loops that help teams use AI without lowering engineering standards.
 
 ---
 
@@ -47,10 +45,10 @@ More recently, a lot of my work has centered on **AI-native engineering systems*
 STATUS
 ────────────────────────────────
 
-building      → AI-native engineering systems
+building      → production software + AI delivery harnesses
 learning      → Swift + native iOS development
-thinking      → product systems, agents, architecture
-optimizing    → how humans + AI build software together
+thinking      → product systems, agents, contracts, architecture
+optimizing    → how humans + AI ship reliable software together
 probably      → getting another cup of coffee
 ```
 
@@ -62,17 +60,18 @@ probably      → getting another cup of coffee
 <tr>
 <td width="50%" valign="top">
 
-### 01. AI Engineering Harness
+### 01. Greenfield Harness
 
-Designed governed AI development workflows around real production repositories, including:
+Designed a reusable AI delivery harness used across client builds by engineers and coding agents, including:
 
-`context management`<br>
-`agent orchestration`<br>
-`verification loops`<br>
-`human approval`<br>
-`architectural constraints`
+`domain profiles`<br>
+`context architecture`<br>
+`explicit contracts`<br>
+`tool guardrails`<br>
+`validation checks`<br>
+`human review gates`
 
-The goal: **increase engineering capacity without outsourcing engineering judgment.**
+The goal: **help teams use AI to ship faster without outsourcing engineering judgment.**
 
 </td>
 <td width="50%" valign="top">
@@ -156,7 +155,7 @@ VERIFY
    ↺
 ```
 
-I care less about generating more code and more about building **better systems for making good decisions**.
+I care less about generating more code and more about building **better systems for making good decisions, reliable handoffs, and reviewable output**.
 
 That philosophy increasingly shapes how I think about AI engineering:
 
@@ -186,24 +185,25 @@ It is:
 
 ## tools i keep around
 
-![TypeScript](https://img.shields.io/badge/TypeScript-241812?style=flat-square\&logo=typescript\&logoColor=D16A4A)
-![JavaScript](https://img.shields.io/badge/JavaScript-241812?style=flat-square\&logo=javascript\&logoColor=F5F2EC)
-![SQL](https://img.shields.io/badge/SQL-241812?style=flat-square\&logo=postgresql\&logoColor=E9B39B)
-
-![React](https://img.shields.io/badge/React-30221B?style=flat-square\&logo=react\&logoColor=E9B39B)
-![Next.js](https://img.shields.io/badge/Next.js-30221B?style=flat-square\&logo=nextdotjs\&logoColor=F5F2EC)
-![Node.js](https://img.shields.io/badge/Node.js-30221B?style=flat-square\&logo=nodedotjs\&logoColor=E9B39B)
-![Tailwind](https://img.shields.io/badge/Tailwind-30221B?style=flat-square\&logo=tailwindcss\&logoColor=F2DCCF)
-![Playwright](https://img.shields.io/badge/Playwright-30221B?style=flat-square\&logo=playwright\&logoColor=D16A4A)
-![Jest](https://img.shields.io/badge/Jest-30221B?style=flat-square\&logo=jest\&logoColor=E9B39B)
+![TypeScript](https://img.shields.io/badge/TypeScript-241812?style=flat-square&logo=typescript&logoColor=D16A4A)
+![React](https://img.shields.io/badge/React-30221B?style=flat-square&logo=react&logoColor=E9B39B)
+![Next.js](https://img.shields.io/badge/Next.js-30221B?style=flat-square&logo=nextdotjs&logoColor=F5F2EC)
+![Playwright](https://img.shields.io/badge/Playwright-30221B?style=flat-square&logo=playwright&logoColor=D16A4A)
+![Zod](https://img.shields.io/badge/Zod-30221B?style=flat-square&logo=zod&logoColor=E9B39B)
+![Figma](https://img.shields.io/badge/Figma-30221B?style=flat-square&logo=figma&logoColor=F2DCCF)
+![Codex](https://img.shields.io/badge/Codex-241812?style=flat-square&logo=openai&logoColor=F5F2EC)
+![Claude](https://img.shields.io/badge/Claude-241812?style=flat-square&logo=anthropic&logoColor=E9B39B)
+![Cursor](https://img.shields.io/badge/Cursor-241812?style=flat-square&logo=cursor&logoColor=D16A4A)
+![GitHub](https://img.shields.io/badge/GitHub-241812?style=flat-square&logo=github&logoColor=F5F2EC)
+![Linear](https://img.shields.io/badge/Linear-241812?style=flat-square&logo=linear&logoColor=E9B39B)
 
 ---
 
 ## bulletins
 
 ```txt
-2026     → shipping client work through my AI harness
-2025     → made AI-assisted delivery something my team could trust
+2026     → modernizing reusable AI delivery harnesses
+2025     → made agent-assisted delivery something my team could trust
 2024     → scrum cert. learned the official names for things I was already doing
 2023     → co-founder year. product, frontend, and the messy part
 2022     → Stacks residency. travel, curriculum, hackathons
@@ -224,7 +224,6 @@ Technology is only one part of my life.
 ### 🐾 nikko + vala
 
 Managing an Instagram page for two very good dogs with questionable definitions of personal space.
-
 
 </td>
 
@@ -253,6 +252,7 @@ Growing flowers, vegetables, and an unreasonable level of emotional investment i
 </td>
 </tr>
 </table>
+
 
 ---
 
