@@ -46,7 +46,7 @@ STATUS
 ────────────────────────────────
 
 building      → production software + AI delivery harnesses
-learning      → Swift + native iOS development
+learning      → how to build MCPs
 thinking      → product systems, agents, contracts, architecture
 optimizing    → how humans + AI ship reliable software together
 probably      → getting another cup of coffee
